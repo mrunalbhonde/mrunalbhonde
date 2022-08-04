@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrunalbhonde
 - 👀 I’m interested in learning, design, coding, machine learning and art.
-- 🌱 I’m currently learning to use external API's in my own projects on Python. Also learning to use Java Script as a part of Front-End web-development.
+- 🌱 I’m currently learning data analysis using pandas. Also learning to use Java Script as a part of Front-End web-development.
 - 💞️ I’m looking to collaborate on Front End Projects.
 - 📫 Reach Me 
 
