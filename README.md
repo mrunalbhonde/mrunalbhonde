@@ -1,3 +1,12 @@
+![nnnnnnn](https://user-images.githubusercontent.com/82958906/187125523-db22a892-bedd-4e5b-8938-6a89ae2c76ac.gif)
+
+
+
+
+
+
+
+
 - 👋 Hi, I’m @mrunalbhonde
 - 👀 I’m interested in learning, design, coding, machine learning and art.
 - 🌱 I’m currently learning data analysis using pandas. Also learning to use Java Script as a part of Front-End web-development.
