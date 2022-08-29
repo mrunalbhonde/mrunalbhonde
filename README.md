@@ -1,4 +1,5 @@
-![nnnnnnn](https://user-images.githubusercontent.com/82958906/187125523-db22a892-bedd-4e5b-8938-6a89ae2c76ac.gif)
+![image](https://user-images.githubusercontent.com/82958906/187125636-6c53ff25-9838-4ec7-8fc6-544e72426417.png)
+
 
 
 
@@ -11,7 +12,7 @@
 - 👀 I’m interested in learning, design, coding, machine learning and art.
 - 🌱 I’m currently learning data analysis using pandas. Also learning to use Java Script as a part of Front-End web-development.
 - 💞️ I’m looking to collaborate on Front End Projects.
-- 📫 Reach Me 
+- 📫 Linkedin: https://www.linkedin.com/in/mrunal-bhonde-23aa96218/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrunalbhonde)](https://github.com/mrunalbhonde/github-readme-stats)
 
