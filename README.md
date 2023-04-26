@@ -20,7 +20,8 @@
 - 💞️ I’m looking to collaborate on Machine learning and Data Analysis Projects
 - 📫 Linkedin: https://www.linkedin.com/in/mrunal-bhonde-23aa96218/
 
-
+</br>
+</br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrunalbhonde&langs_count=8&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
